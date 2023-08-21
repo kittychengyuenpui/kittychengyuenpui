@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kittychengyuenpui
 - [My Github Résumé](https://resume.github.io/?kittychengyuenpui)
+- [Job Resume](/Resume.pdf)
 - 🌱 I’m currently learning and using React, Typescript, Javascript with Ant Design Pro framework and Material UI 
 
 <!---
